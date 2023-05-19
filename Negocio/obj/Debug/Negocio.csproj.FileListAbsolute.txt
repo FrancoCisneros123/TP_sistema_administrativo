@@ -1,0 +1,20 @@
+C:\Users\EXO\OneDrive\Documentos\Visual Studio 2015\Projects\Negocio\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\EXO\OneDrive\Documentos\Visual Studio 2015\Projects\Negocio\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\EXO\OneDrive\Documentos\Visual Studio 2015\Projects\Negocio\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\EXO\OneDrive\Documentos\Visual Studio 2015\Projects\Negocio\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\EXO\OneDrive\Documentos\Visual Studio 2015\Projects\TP_Integrador\Negocio\bin\Debug\ClassLibrary1.dll
+C:\Users\EXO\OneDrive\Documentos\Visual Studio 2015\Projects\TP_Integrador\Negocio\bin\Debug\ClassLibrary1.pdb
+C:\Users\EXO\OneDrive\Documentos\Visual Studio 2015\Projects\TP_Integrador\Negocio\bin\Debug\EntidadNegocio.dll
+C:\Users\EXO\OneDrive\Documentos\Visual Studio 2015\Projects\TP_Integrador\Negocio\bin\Debug\EntidadNegocio.pdb
+C:\Users\EXO\OneDrive\Documentos\Visual Studio 2015\Projects\TP_Integrador\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\EXO\OneDrive\Documentos\Visual Studio 2015\Projects\TP_Integrador\Negocio\obj\Debug\ClassLibrary1.dll
+C:\Users\EXO\OneDrive\Documentos\Visual Studio 2015\Projects\TP_Integrador\Negocio\obj\Debug\ClassLibrary1.pdb
+C:\Users\EXO\OneDrive\Escritorio\Universidad UPE\Tecnicas de programacion\TP_Integrador\Negocio\bin\Debug\ClassLibrary1.dll
+C:\Users\EXO\OneDrive\Escritorio\Universidad UPE\Tecnicas de programacion\TP_Integrador\Negocio\bin\Debug\ClassLibrary1.pdb
+C:\Users\EXO\OneDrive\Escritorio\Universidad UPE\Tecnicas de programacion\TP_Integrador\Negocio\bin\Debug\EntidadNegocio.dll
+C:\Users\EXO\OneDrive\Escritorio\Universidad UPE\Tecnicas de programacion\TP_Integrador\Negocio\bin\Debug\EntidadNegocio.pdb
+C:\Users\EXO\OneDrive\Escritorio\Universidad UPE\Tecnicas de programacion\TP_Integrador\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\EXO\OneDrive\Escritorio\Universidad UPE\Tecnicas de programacion\TP_Integrador\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\EXO\OneDrive\Escritorio\Universidad UPE\Tecnicas de programacion\TP_Integrador\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\EXO\OneDrive\Escritorio\Universidad UPE\Tecnicas de programacion\TP_Integrador\Negocio\obj\Debug\ClassLibrary1.dll
+C:\Users\EXO\OneDrive\Escritorio\Universidad UPE\Tecnicas de programacion\TP_Integrador\Negocio\obj\Debug\ClassLibrary1.pdb

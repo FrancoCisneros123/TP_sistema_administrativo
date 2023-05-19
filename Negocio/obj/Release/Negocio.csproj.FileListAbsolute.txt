@@ -1,0 +1,4 @@
+C:\Users\EXO\OneDrive\Documentos\Visual Studio 2015\Projects\Negocio\ClassLibrary1\bin\Release\ClassLibrary1.dll
+C:\Users\EXO\OneDrive\Documentos\Visual Studio 2015\Projects\Negocio\ClassLibrary1\bin\Release\ClassLibrary1.pdb
+C:\Users\EXO\OneDrive\Documentos\Visual Studio 2015\Projects\Negocio\ClassLibrary1\obj\Release\ClassLibrary1.dll
+C:\Users\EXO\OneDrive\Documentos\Visual Studio 2015\Projects\Negocio\ClassLibrary1\obj\Release\ClassLibrary1.pdb

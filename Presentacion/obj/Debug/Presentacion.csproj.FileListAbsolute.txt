@@ -1,0 +1,46 @@
+c:\Users\EXO\OneDrive\documentos\visual studio 2015\Projects\Negocio\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+c:\Users\EXO\OneDrive\documentos\visual studio 2015\Projects\Negocio\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+c:\Users\EXO\OneDrive\documentos\visual studio 2015\Projects\Negocio\Presentacion\bin\Debug\Presentacion.exe
+c:\Users\EXO\OneDrive\documentos\visual studio 2015\Projects\Negocio\Presentacion\bin\Debug\Presentacion.pdb
+c:\Users\EXO\OneDrive\documentos\visual studio 2015\Projects\Negocio\Presentacion\obj\Debug\Presentacion.exe
+c:\Users\EXO\OneDrive\documentos\visual studio 2015\Projects\Negocio\Presentacion\obj\Debug\Presentacion.pdb
+c:\Users\EXO\OneDrive\documentos\visual studio 2015\Projects\Negocio\Presentacion\obj\Debug\Presentacion.formIniciarSesion.resources
+c:\Users\EXO\OneDrive\documentos\visual studio 2015\Projects\Negocio\Presentacion\bin\Debug\ClassLibrary1.dll
+c:\Users\EXO\OneDrive\documentos\visual studio 2015\Projects\Negocio\Presentacion\bin\Debug\ClassLibrary1.pdb
+c:\Users\EXO\OneDrive\documentos\visual studio 2015\Projects\Negocio\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\EXO\OneDrive\Documentos\Visual Studio 2015\Projects\TP_Integrador\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\EXO\OneDrive\Documentos\Visual Studio 2015\Projects\TP_Integrador\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\EXO\OneDrive\Documentos\Visual Studio 2015\Projects\TP_Integrador\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\EXO\OneDrive\Documentos\Visual Studio 2015\Projects\TP_Integrador\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\EXO\OneDrive\Documentos\Visual Studio 2015\Projects\TP_Integrador\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\EXO\OneDrive\Documentos\Visual Studio 2015\Projects\TP_Integrador\Presentacion\obj\Debug\Presentacion.formIniciarSesion.resources
+C:\Users\EXO\OneDrive\Documentos\Visual Studio 2015\Projects\TP_Integrador\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\EXO\OneDrive\Documentos\Visual Studio 2015\Projects\TP_Integrador\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\EXO\OneDrive\Documentos\Visual Studio 2015\Projects\TP_Integrador\Presentacion\bin\Debug\ClassLibrary1.dll
+C:\Users\EXO\OneDrive\Documentos\Visual Studio 2015\Projects\TP_Integrador\Presentacion\bin\Debug\EntidadNegocio.dll
+C:\Users\EXO\OneDrive\Documentos\Visual Studio 2015\Projects\TP_Integrador\Presentacion\bin\Debug\EntidadNegocio.pdb
+C:\Users\EXO\OneDrive\Documentos\Visual Studio 2015\Projects\TP_Integrador\Presentacion\bin\Debug\ClassLibrary1.pdb
+C:\Users\EXO\OneDrive\Documentos\Visual Studio 2015\Projects\TP_Integrador\Presentacion\obj\Debug\Presentacion.formVendedorInicio.resources
+C:\Users\EXO\OneDrive\Documentos\Visual Studio 2015\Projects\TP_Integrador\Presentacion\obj\Debug\Presentacion.formAdministradorInicio.resources
+C:\Users\EXO\OneDrive\Documentos\Visual Studio 2015\Projects\TP_Integrador\Presentacion\obj\Debug\Presentacion.formGerenteInicio.resources
+C:\Users\EXO\OneDrive\Documentos\Visual Studio 2015\Projects\TP_Integrador\Presentacion\obj\Debug\Presentacion.formEncargadoInicio.resources
+C:\Users\EXO\OneDrive\Documentos\Visual Studio 2015\Projects\TP_Integrador\Presentacion\obj\Debug\Presentacion.formRepartidorInicio.resources
+C:\Users\EXO\OneDrive\Escritorio\Universidad UPE\Tecnicas de programacion\TP_Integrador\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\EXO\OneDrive\Escritorio\Universidad UPE\Tecnicas de programacion\TP_Integrador\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\EXO\OneDrive\Escritorio\Universidad UPE\Tecnicas de programacion\TP_Integrador\Presentacion\bin\Debug\ClassLibrary1.dll
+C:\Users\EXO\OneDrive\Escritorio\Universidad UPE\Tecnicas de programacion\TP_Integrador\Presentacion\bin\Debug\EntidadNegocio.dll
+C:\Users\EXO\OneDrive\Escritorio\Universidad UPE\Tecnicas de programacion\TP_Integrador\Presentacion\bin\Debug\EntidadNegocio.pdb
+C:\Users\EXO\OneDrive\Escritorio\Universidad UPE\Tecnicas de programacion\TP_Integrador\Presentacion\bin\Debug\ClassLibrary1.pdb
+C:\Users\EXO\OneDrive\Escritorio\Universidad UPE\Tecnicas de programacion\TP_Integrador\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\EXO\OneDrive\Escritorio\Universidad UPE\Tecnicas de programacion\TP_Integrador\Presentacion\obj\Debug\Presentacion.formAdministradorInicio.resources
+C:\Users\EXO\OneDrive\Escritorio\Universidad UPE\Tecnicas de programacion\TP_Integrador\Presentacion\obj\Debug\Presentacion.formEncargadoInicio.resources
+C:\Users\EXO\OneDrive\Escritorio\Universidad UPE\Tecnicas de programacion\TP_Integrador\Presentacion\obj\Debug\Presentacion.formGerenteInicio.resources
+C:\Users\EXO\OneDrive\Escritorio\Universidad UPE\Tecnicas de programacion\TP_Integrador\Presentacion\obj\Debug\Presentacion.formIniciarSesion.resources
+C:\Users\EXO\OneDrive\Escritorio\Universidad UPE\Tecnicas de programacion\TP_Integrador\Presentacion\obj\Debug\Presentacion.formRepartidorInicio.resources
+C:\Users\EXO\OneDrive\Escritorio\Universidad UPE\Tecnicas de programacion\TP_Integrador\Presentacion\obj\Debug\Presentacion.formVendedorInicio.resources
+C:\Users\EXO\OneDrive\Escritorio\Universidad UPE\Tecnicas de programacion\TP_Integrador\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\EXO\OneDrive\Escritorio\Universidad UPE\Tecnicas de programacion\TP_Integrador\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\EXO\OneDrive\Escritorio\Universidad UPE\Tecnicas de programacion\TP_Integrador\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\EXO\OneDrive\Escritorio\Universidad UPE\Tecnicas de programacion\TP_Integrador\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\EXO\OneDrive\Escritorio\Universidad UPE\Tecnicas de programacion\TP_Integrador\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\EXO\OneDrive\Escritorio\Universidad UPE\Tecnicas de programacion\TP_Integrador\Presentacion\obj\Debug\Presentacion.pdb

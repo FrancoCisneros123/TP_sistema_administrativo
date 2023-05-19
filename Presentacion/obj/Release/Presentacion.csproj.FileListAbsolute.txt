@@ -1,0 +1,10 @@
+c:\Users\EXO\OneDrive\documentos\visual studio 2015\Projects\Negocio\Presentacion\bin\Release\Presentacion.exe
+c:\Users\EXO\OneDrive\documentos\visual studio 2015\Projects\Negocio\Presentacion\bin\Release\Presentacion.pdb
+c:\Users\EXO\OneDrive\documentos\visual studio 2015\Projects\Negocio\Presentacion\bin\Release\ClassLibrary1.dll
+c:\Users\EXO\OneDrive\documentos\visual studio 2015\Projects\Negocio\Presentacion\bin\Release\ClassLibrary1.pdb
+c:\Users\EXO\OneDrive\documentos\visual studio 2015\Projects\Negocio\Presentacion\obj\Release\Presentacion.csprojResolveAssemblyReference.cache
+c:\Users\EXO\OneDrive\documentos\visual studio 2015\Projects\Negocio\Presentacion\obj\Release\Presentacion.formIniciarSesion.resources
+c:\Users\EXO\OneDrive\documentos\visual studio 2015\Projects\Negocio\Presentacion\obj\Release\Presentacion.Properties.Resources.resources
+c:\Users\EXO\OneDrive\documentos\visual studio 2015\Projects\Negocio\Presentacion\obj\Release\Presentacion.csproj.GenerateResource.Cache
+c:\Users\EXO\OneDrive\documentos\visual studio 2015\Projects\Negocio\Presentacion\obj\Release\Presentacion.exe
+c:\Users\EXO\OneDrive\documentos\visual studio 2015\Projects\Negocio\Presentacion\obj\Release\Presentacion.pdb
