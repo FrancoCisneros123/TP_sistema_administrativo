@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Datos;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -79,6 +80,11 @@ namespace Presentacion
 
         private void txtbPassword_TextChanged(object sender, EventArgs e)
         {
+        }
+
+        private void formIniciarSesion_Load(object sender, EventArgs e)
+        {
+            Conexion c = new Conexion();
         }
     }
 }

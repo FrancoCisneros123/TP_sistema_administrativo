@@ -44,3 +44,26 @@ C:\Users\EXO\OneDrive\Escritorio\Universidad UPE\Tecnicas de programacion\TP_Int
 C:\Users\EXO\OneDrive\Escritorio\Universidad UPE\Tecnicas de programacion\TP_Integrador\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
 C:\Users\EXO\OneDrive\Escritorio\Universidad UPE\Tecnicas de programacion\TP_Integrador\Presentacion\obj\Debug\Presentacion.exe
 C:\Users\EXO\OneDrive\Escritorio\Universidad UPE\Tecnicas de programacion\TP_Integrador\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Zalaz\OneDrive\Documentos\GitHub\TP_sistema_administrativo\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Zalaz\OneDrive\Documentos\GitHub\TP_sistema_administrativo\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Zalaz\OneDrive\Documentos\GitHub\TP_sistema_administrativo\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Zalaz\OneDrive\Documentos\GitHub\TP_sistema_administrativo\Presentacion\bin\Debug\ClassLibrary1.dll
+C:\Users\Zalaz\OneDrive\Documentos\GitHub\TP_sistema_administrativo\Presentacion\bin\Debug\Datos.dll
+C:\Users\Zalaz\OneDrive\Documentos\GitHub\TP_sistema_administrativo\Presentacion\bin\Debug\EntidadNegocio.dll
+C:\Users\Zalaz\OneDrive\Documentos\GitHub\TP_sistema_administrativo\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Zalaz\OneDrive\Documentos\GitHub\TP_sistema_administrativo\Presentacion\bin\Debug\EntidadNegocio.pdb
+C:\Users\Zalaz\OneDrive\Documentos\GitHub\TP_sistema_administrativo\Presentacion\bin\Debug\ClassLibrary1.pdb
+C:\Users\Zalaz\OneDrive\Documentos\GitHub\TP_sistema_administrativo\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Zalaz\OneDrive\Documentos\GitHub\TP_sistema_administrativo\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zalaz\OneDrive\Documentos\GitHub\TP_sistema_administrativo\Presentacion\obj\Debug\Presentacion.formAdministradorInicio.resources
+C:\Users\Zalaz\OneDrive\Documentos\GitHub\TP_sistema_administrativo\Presentacion\obj\Debug\Presentacion.formEncargadoInicio.resources
+C:\Users\Zalaz\OneDrive\Documentos\GitHub\TP_sistema_administrativo\Presentacion\obj\Debug\Presentacion.formGerenteInicio.resources
+C:\Users\Zalaz\OneDrive\Documentos\GitHub\TP_sistema_administrativo\Presentacion\obj\Debug\Presentacion.formIniciarSesion.resources
+C:\Users\Zalaz\OneDrive\Documentos\GitHub\TP_sistema_administrativo\Presentacion\obj\Debug\Presentacion.formRepartidorInicio.resources
+C:\Users\Zalaz\OneDrive\Documentos\GitHub\TP_sistema_administrativo\Presentacion\obj\Debug\Presentacion.formVendedorInicio.resources
+C:\Users\Zalaz\OneDrive\Documentos\GitHub\TP_sistema_administrativo\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Zalaz\OneDrive\Documentos\GitHub\TP_sistema_administrativo\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Zalaz\OneDrive\Documentos\GitHub\TP_sistema_administrativo\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Zalaz\OneDrive\Documentos\GitHub\TP_sistema_administrativo\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Zalaz\OneDrive\Documentos\GitHub\TP_sistema_administrativo\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Zalaz\OneDrive\Documentos\GitHub\TP_sistema_administrativo\Presentacion\obj\Debug\Presentacion.pdb

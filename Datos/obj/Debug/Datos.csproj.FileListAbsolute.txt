@@ -1,0 +1,9 @@
+C:\Users\Zalaz\OneDrive\Documentos\GitHub\TP_sistema_administrativo\Datos\bin\Debug\Datos.dll
+C:\Users\Zalaz\OneDrive\Documentos\GitHub\TP_sistema_administrativo\Datos\bin\Debug\Datos.pdb
+C:\Users\Zalaz\OneDrive\Documentos\GitHub\TP_sistema_administrativo\Datos\bin\Debug\EntidadNegocio.dll
+C:\Users\Zalaz\OneDrive\Documentos\GitHub\TP_sistema_administrativo\Datos\bin\Debug\EntidadNegocio.pdb
+C:\Users\Zalaz\OneDrive\Documentos\GitHub\TP_sistema_administrativo\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Zalaz\OneDrive\Documentos\GitHub\TP_sistema_administrativo\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Zalaz\OneDrive\Documentos\GitHub\TP_sistema_administrativo\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Zalaz\OneDrive\Documentos\GitHub\TP_sistema_administrativo\Datos\obj\Debug\Datos.dll
+C:\Users\Zalaz\OneDrive\Documentos\GitHub\TP_sistema_administrativo\Datos\obj\Debug\Datos.pdb
